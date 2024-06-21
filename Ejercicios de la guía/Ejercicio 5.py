@@ -1,0 +1,10 @@
+num1 = float(input("Ingrese un numero:"))
+num2 = float(input("Ingrese otro numero:"))
+
+print("Suma: {}".format(num1 + num2))
+print("Resta: {}".format(num1 - num2))
+print("Multiplicación: {}".format(num1 * num2))
+print("Division: {}".format(num1 / num2))
+print("Potencia {}".format(num1 ** num2))
+print("Division entera {}".format(num1 // num2))
+print("Resto {}".format(num1 % num2))
